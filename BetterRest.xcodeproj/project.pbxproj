@@ -19,6 +19,7 @@
 		79FD09572753D27F008A98B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		79FD09592753D280008A98B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79FD095C2753D280008A98B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		79FD09632753D29F008A98B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				79FD09572753D27F008A98B7 /* ContentView.swift */,
 				79FD09592753D280008A98B7 /* Assets.xcassets */,
 				79FD095B2753D280008A98B7 /* Preview Content */,
+				79FD09632753D29F008A98B7 /* README.md */,
 			);
 			path = BetterRest;
 			sourceTree = "<group>";
